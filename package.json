@@ -1,7 +1,6 @@
 {
   "name": "ts_courses",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "@web/dev-server": "^0.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaOP/goit-typescript-hw-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OlenaOP/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/OlenaOP/goit-typescript-hw-01#readme",
+  "description": ""
 }
